@@ -1,0 +1,35 @@
+{
+    "effect.potionpack.reach": "Reach",
+    "effect.potionpack.expansion": "Expansion",
+    "effect.potionpack.swift_swim": "Swift Swim",
+
+    "item.minecraft.potion.effect.builders_potion": "Builder's Potion",
+    "item.minecraft.potion.effect.builders_potion_long": "Builder's Potion",
+    "item.minecraft.potion.effect.builders_potion_strong": "Builder's Potion",
+    "item.minecraft.splash_potion.effect.builders_potion": "Builder's Splash Potion",
+    "item.minecraft.splash_potion.effect.builders_potion_long": "Builder's Splash Potion",
+    "item.minecraft.splash_potion.effect.builders_potion_strong": "Builder's Splash Potion",
+    "item.minecraft.lingering_potion.effect.builders_potion": "Builder's Lingering Potion",
+    "item.minecraft.lingering_potion.effect.builders_potion_long": "Builder's Lingering Potion",
+    "item.minecraft.lingering_potion.effect.builders_potion_strong": "Builder's Lingering Potion",
+
+    "item.minecraft.potion.effect.bottled_nebula": "Bottled Nebula",
+    "item.minecraft.potion.effect.bottled_nebula_long": "Bottled Nebula",
+    "item.minecraft.potion.effect.bottled_nebula_strong": "Bottled Nebula",
+    "item.minecraft.splash_potion.effect.bottled_nebula": "Splash Bottled Nebula",
+    "item.minecraft.splash_potion.effect.bottled_nebula_long": "Splash Bottled Nebula",
+    "item.minecraft.splash_potion.effect.bottled_nebula_strong": "Splash Bottled Nebula",
+    "item.minecraft.lingering_potion.effect.bottled_nebula": "Lingering Bottled Nebula",
+    "item.minecraft.lingering_potion.effect.bottled_nebula_long": "Lingering Bottled Nebula",
+    "item.minecraft.lingering_potion.effect.bottled_nebula_strong": "Lingering Bottled Nebula",
+
+    "item.minecraft.potion.effect.swift_swim_potion": "Potion of Swift Swim",
+    "item.minecraft.potion.effect.swift_swim_potion_long": "Potion of Swift Swim",
+    "item.minecraft.potion.effect.swift_swim_potion_strong": "Potion of Swift Swim",
+    "item.minecraft.splash_potion.effect.swift_swim_potion": "Splash Potion of Swift Swim",
+    "item.minecraft.splash_potion.effect.swift_swim_potion_long": "Splash Potion of Swift Swim",
+    "item.minecraft.splash_potion.effect.swift_swim_potion_strong": "Splash Potion of Swift Swim",
+    "item.minecraft.lingering_potion.effect.swift_swim_potion": "Lingering Potion of Swift Swim",
+    "item.minecraft.lingering_potion.effect.swift_swim_potion_long": "Lingering Potion of Swift Swim",
+    "item.minecraft.lingering_potion.effect.swift_swim_potion_strong": "Lingering Potion of Swift Swim"
+}

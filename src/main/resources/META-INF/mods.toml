@@ -1,0 +1,30 @@
+
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All rights reserved"
+
+[[mods]]
+modId="potionpack"
+version="${file.jarVersion}"
+
+displayName="PotionPack"
+logoFile="potionpack.png"
+credits=""
+authors="Phi"
+
+description='''
+Because making your own drugs is cool as heck
+'''
+
+[[dependencies.potionpack]]
+    modId="forge"
+    mandatory=true
+    versionRange="[45,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.potionpack]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4,1.20)"
+    ordering="NONE"
+    side="BOTH"
