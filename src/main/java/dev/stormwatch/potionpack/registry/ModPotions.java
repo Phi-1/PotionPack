@@ -39,19 +39,16 @@ public class ModPotions {
     public static final RegistryObject<Potion> SWIFT_SWIM_POTION_STRONG = POTIONS.register(
             "swift_swim_potion_strong",
             () -> new Potion(new MobEffectInstance(ModEffects.SWIFT_SWIM.get(), 3600, 1)));
-//
-//
-//    public static final RegistryObject<Potion> RAGE_POTION = POTIONS.register(
-//            "rage_potion",
-//            () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 600, 0)));
-//
-//    public static final RegistryObject<Potion> RAGE_POTION_LONG = POTIONS.register(
-//            "rage_potion_long",
-//            () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 1800, 0)));
-//
-//    public static final RegistryObject<Potion> RAGE_POTION_STRONG = POTIONS.register(
-//            "rage_potion_strong",
-//            () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 600, 1)));
+
+    public static final RegistryObject<Potion> RAGE_POTION = POTIONS.register(
+            "rage_potion",
+            () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 600, 0)));
+    public static final RegistryObject<Potion> RAGE_POTION_LONG = POTIONS.register(
+            "rage_potion_long",
+            () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 1800, 0)));
+    public static final RegistryObject<Potion> RAGE_POTION_STRONG = POTIONS.register(
+            "rage_potion_strong",
+            () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 600, 1)));
 //
 //
 //    public static final RegistryObject<Potion> CALM_POTION = POTIONS.register(

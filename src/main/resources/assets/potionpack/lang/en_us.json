@@ -1,7 +1,12 @@
 {
+    "item.potionpack.golden_beetroot": "Golden Beetroot",
+    "item.potionpack.cellular_iron": "Cellular Iron",
+    "item.potionpack.endeiric_catalyst": "Endeiric Catalyst",
+
     "effect.potionpack.reach": "Reach",
     "effect.potionpack.expansion": "Expansion",
     "effect.potionpack.swift_swim": "Swift Swim",
+    "effect.potionpack.rage": "Rage",
 
     "item.minecraft.potion.effect.builders_potion": "Builder's Potion",
     "item.minecraft.potion.effect.builders_potion_long": "Builder's Potion",
@@ -31,5 +36,15 @@
     "item.minecraft.splash_potion.effect.swift_swim_potion_strong": "Splash Potion of Swift Swim",
     "item.minecraft.lingering_potion.effect.swift_swim_potion": "Lingering Potion of Swift Swim",
     "item.minecraft.lingering_potion.effect.swift_swim_potion_long": "Lingering Potion of Swift Swim",
-    "item.minecraft.lingering_potion.effect.swift_swim_potion_strong": "Lingering Potion of Swift Swim"
+    "item.minecraft.lingering_potion.effect.swift_swim_potion_strong": "Lingering Potion of Swift Swim",
+
+    "item.minecraft.potion.effect.rage_potion": "Potion of Rage",
+    "item.minecraft.potion.effect.rage_potion_long": "Potion of Rage",
+    "item.minecraft.potion.effect.rage_potion_strong": "Potion of Rage",
+    "item.minecraft.splash_potion.effect.rage_potion": "Splash Potion of Rage",
+    "item.minecraft.splash_potion.effect.rage_potion_long": "Splash Potion of Rage",
+    "item.minecraft.splash_potion.effect.rage_potion_strong": "Splash Potion of Rage",
+    "item.minecraft.lingering_potion.effect.rage_potion": "Lingering Potion of Rage",
+    "item.minecraft.lingering_potion.effect.rage_potion_long": "Lingering Potion of Rage",
+    "item.minecraft.lingering_potion.effect.rage_potion_strong": "Lingering Potion of Rage"
 }

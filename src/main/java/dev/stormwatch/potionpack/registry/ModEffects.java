@@ -2,6 +2,7 @@ package dev.stormwatch.potionpack.registry;
 
 import dev.stormwatch.potionpack.PotionPack;
 import dev.stormwatch.potionpack.effects.ExpansionEffect;
+import dev.stormwatch.potionpack.effects.RageEffect;
 import dev.stormwatch.potionpack.effects.ReachEffect;
 import dev.stormwatch.potionpack.effects.SwiftSwimEffect;
 import net.minecraft.world.effect.MobEffect;
@@ -17,6 +18,7 @@ public class ModEffects {
     public static final RegistryObject<MobEffect> REACH = EFFECTS.register("reach", ReachEffect::new);
     public static final RegistryObject<MobEffect> EXPANSION = EFFECTS.register("expansion", ExpansionEffect::new);
     public static final RegistryObject<MobEffect> SWIFT_SWIM = EFFECTS.register("swift_swim", SwiftSwimEffect::new);
+    public static final RegistryObject<MobEffect> RAGE = EFFECTS.register("rage", RageEffect::new);
 
     public static void register(IEventBus modEventBus) {
         EFFECTS.register(modEventBus);

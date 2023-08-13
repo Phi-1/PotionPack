@@ -1,0 +1,28 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "potionpack:golden_beetroot"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "placed_brewing_stand": {
+      "conditions": {
+        "block": "minecraft:brewing_stand"
+      },
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "requirements": [
+    [
+      "placed_brewing_stand",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "potionpack:golden_beetroot"
+    ]
+  }
+}
