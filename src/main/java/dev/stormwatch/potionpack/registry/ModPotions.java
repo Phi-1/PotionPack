@@ -21,6 +21,18 @@ public class ModPotions {
             "builders_potion_strong",
             () -> new Potion(new MobEffectInstance(ModEffects.REACH.get(), 6000, 1)));
 
+    // TODO: decide whether to use custom haste effect for more overall mining speed and possibly instamining on tiers lower than diamond-eff5,
+    // TODO: or just base minecraft effect for consistency
+    public static final RegistryObject<Potion> MINERS_POTION = POTIONS.register(
+            "miners_potion",
+            () -> new Potion(new MobEffectInstance(ModEffects.HASTE.get(), 6000, 0)));
+    public static final RegistryObject<Potion> MINERS_POTION_LONG = POTIONS.register(
+            "miners_potion_long",
+            () -> new Potion(new MobEffectInstance(ModEffects.HASTE.get(), 14400, 0)));
+    public static final RegistryObject<Potion> MINERS_POTION_STRONG = POTIONS.register(
+            "miners_potion_strong",
+            () -> new Potion(new MobEffectInstance(ModEffects.HASTE.get(), 6000, 1)));
+
     public static final RegistryObject<Potion> BOTTLED_NEBULA = POTIONS.register("bottled_nebula",
             () -> new Potion(new MobEffectInstance(ModEffects.EXPANSION.get(), 9600, 0)));
     public static final RegistryObject<Potion> BOTTLED_NEBULA_LONG = POTIONS.register(
@@ -50,7 +62,7 @@ public class ModPotions {
             "rage_potion_strong",
             () -> new Potion(new MobEffectInstance(ModEffects.RAGE.get(), 600, 1)));
 //
-//
+//  // TODO: calm, cellular iron potion, resplendence
 //    public static final RegistryObject<Potion> CALM_POTION = POTIONS.register(
 //            "calm_potion",
 //            () -> new Potion(new MobEffectInstance(ModEffects.CALM.get(), 600, 0)));

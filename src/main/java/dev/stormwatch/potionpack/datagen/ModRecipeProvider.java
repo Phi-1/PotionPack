@@ -1,10 +1,8 @@
 package dev.stormwatch.potionpack.datagen;
 
-import dev.stormwatch.potionpack.PotionPack;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.FinishedRecipe;
 import net.minecraft.data.recipes.RecipeProvider;
-import net.minecraft.resources.ResourceLocation;
 
 import java.util.function.Consumer;
 

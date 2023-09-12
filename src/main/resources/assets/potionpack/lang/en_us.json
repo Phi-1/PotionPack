@@ -4,6 +4,7 @@
     "item.potionpack.endeiric_catalyst": "Endeiric Catalyst",
 
     "effect.potionpack.reach": "Reach",
+    "effect.potionpack.haste": "Haste",
     "effect.potionpack.expansion": "Expansion",
     "effect.potionpack.swift_swim": "Swift Swim",
     "effect.potionpack.rage": "Rage",
@@ -17,6 +18,16 @@
     "item.minecraft.lingering_potion.effect.builders_potion": "Builder's Lingering Potion",
     "item.minecraft.lingering_potion.effect.builders_potion_long": "Builder's Lingering Potion",
     "item.minecraft.lingering_potion.effect.builders_potion_strong": "Builder's Lingering Potion",
+
+    "item.minecraft.potion.effect.miners_potion": "Miner's Potion",
+    "item.minecraft.potion.effect.miners_potion_long": "Miner's Potion",
+    "item.minecraft.potion.effect.miners_potion_strong": "Miner's Potion",
+    "item.minecraft.splash_potion.effect.miners_potion": "Miner's Splash Potion",
+    "item.minecraft.splash_potion.effect.miners_potion_long": "Miner's Splash Potion",
+    "item.minecraft.splash_potion.effect.miners_potion_strong": "Miner's Splash Potion",
+    "item.minecraft.lingering_potion.effect.miners_potion": "Miner's Lingering Potion",
+    "item.minecraft.lingering_potion.effect.miners_potion_long": "Miner's Lingering Potion",
+    "item.minecraft.lingering_potion.effect.miners_potion_strong": "Miner's Lingering Potion",
 
     "item.minecraft.potion.effect.bottled_nebula": "Bottled Nebula",
     "item.minecraft.potion.effect.bottled_nebula_long": "Bottled Nebula",
